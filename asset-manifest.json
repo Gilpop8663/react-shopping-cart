@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/react-shopping-cart/static/js/main.20ab9c4a.js",
+    "static/media/1.png": "/react-shopping-cart/static/media/1.4e48f2e14b9232802c7d.png",
+    "static/media/9.png": "/react-shopping-cart/static/media/9.01c5962d20cf11f020d4.png",
+    "static/media/3.png": "/react-shopping-cart/static/media/3.815907b036951a349b17.png",
+    "static/media/11.png": "/react-shopping-cart/static/media/11.f1bc5fe2305da761ac29.png",
+    "static/media/2.png": "/react-shopping-cart/static/media/2.656ad5cb5df3540f5f17.png",
+    "static/media/10.png": "/react-shopping-cart/static/media/10.78a94ce9053020292a4b.png",
+    "static/media/12.png": "/react-shopping-cart/static/media/12.b872733a3764ca9aad93.png",
+    "static/media/4.png": "/react-shopping-cart/static/media/4.53577219ad7c86fdf931.png",
+    "static/media/5.png": "/react-shopping-cart/static/media/5.d539594958b32d9189af.png",
+    "static/media/6.png": "/react-shopping-cart/static/media/6.90bcd2b84510c794a14f.png",
+    "static/media/7.png": "/react-shopping-cart/static/media/7.9825eee7fa2adf44f65a.png",
+    "static/media/8.png": "/react-shopping-cart/static/media/8.98a564e1290e56f5adb8.png",
+    "static/media/bucket-button.svg": "/react-shopping-cart/static/media/bucket-button.9fa92ae3af8352855e7e8d01fcf7cfce.svg",
+    "static/media/bucket-logo.svg": "/react-shopping-cart/static/media/bucket-logo.050edc0f52de951296380b2c4f5ee342.svg",
+    "static/media/bottom-arrow.svg": "/react-shopping-cart/static/media/bottom-arrow.e45e2c583242b9dae6bc70d2d2b2c988.svg",
+    "static/media/top-arrow.svg": "/react-shopping-cart/static/media/top-arrow.db5392fba9754cd133f89e4c6acb18b3.svg",
+    "index.html": "/react-shopping-cart/index.html",
+    "main.20ab9c4a.js.map": "/react-shopping-cart/static/js/main.20ab9c4a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.20ab9c4a.js"
+  ]
+}
